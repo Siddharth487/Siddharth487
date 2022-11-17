@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siddharth Muralikrishnan
+- 👋 Hi, I’m Siddharth Muralikrishnan
 - 👀 I’m interested in robotics
 - 🌱 I’m currently studying mechatronics at the university of Waterloo
 - 💞️ I’m looking to collaborate on ...
